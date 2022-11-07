@@ -6,5 +6,5 @@ Para rodar este projeto na sua máquina, por favor digite:
 
 
 ```
-npx run cypress
+node app.js
 ```
